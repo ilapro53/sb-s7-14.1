@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
           <h1>Test of revert</h1>
-          <h2>Ansible</h2>
+          <h2>Ilya Pirozhenko</h2>
           <p>Edit <kbd>src/App.js</kbd> and save to reload.</p>
         <a
           className="App-link"
